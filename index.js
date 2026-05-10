@@ -17,7 +17,7 @@ const applications = `
     </head> <body> <div class="bg"></div>  <div class="content"> <h1 id="home" 
         style="text-align: center;font-weight: bold;text-decoration: underline;">
             WELCOME TO JAVASCRIPT APPLICATIONS!!</h1> 
-   <h3 style="text-align:center;"> Click on any of the below JavaScript apps, or click <a href="/applications1">here</a> for accessing GraphQL!</h3>
+   <h3 style="text-align:center;"> Click on any of the below JavaScript apps, or click <a href="/applications1">here</a> for accessing GraphQL!!!</h3>
 
 
    <div class="parent"> <ul>
